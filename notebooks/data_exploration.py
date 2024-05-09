@@ -1,5 +1,6 @@
 import pandas as pd
 import os, sys
+# change run dir to script path
 os.chdir(os.path.dirname(os.path.realpath(sys.argv[0])))
 
 ## data import
