@@ -164,3 +164,7 @@ cython_debug/
 
 # Data folder
 data/
+
+
+# Ignore all keras-files
+*.keras
